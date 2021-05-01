@@ -2,7 +2,7 @@
 
 Projeto desenvolvido para a plataforma DigitalInnovation One.
 
-Abaixo requerimentos e instruções de como rodar a aplicação.
+Abaixo informações e instruções de como rodar a aplicação.
 
 ## Aplicação
 
